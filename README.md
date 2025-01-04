@@ -19,8 +19,11 @@ This project is a 3D solar system simulation built using **Three.js**, with feat
 1. Clone this repository:
    ```bash
    git clone https://github.com/ViralChameleon1/solar-system-simulation.git
-2.Navigate to the project directory:
-  cd solar-system-simulation
+
+2. Navigate to the project directory:
+   ```bash
+   cd solar-system-simulation
+  
 3. Open the index.html file in your browser to view the simulation.
 
 ## Usage
